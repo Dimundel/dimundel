@@ -5,7 +5,6 @@ MSc student @ MIPT & YSDA · Research Intern @ Yandex
 dynamics and stability of Transformer blocks, Bayesian deep learning.
 
 - 📄 [Sink vs. Diagonal Attention: Sharpened Cost Bounds and Comparison Regimes](https://openreview.net/forum?id=PcyRPozsBF) — AXIOM Workshop @ NeurIPS 2026
-- 📄 The Parameter Cost of Attention Sinks: Unconditional Linear Bounds and Positional Geometry — under review at AISTATS 2027
 - 📄 [Jacobian Analysis of a Recurrent Transformer Block](https://github.com/Dimundel/Jacobian-Analysis-of-a-Recurrent-Transformer-Block) — AINL 2026
 - 📦 [Bensemble](https://github.com/intsystems/bensemble) — Bayesian deep learning library (JOSS, in review)
 
