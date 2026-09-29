@@ -1,9 +1,11 @@
 # Dmitrii Vasilenko
 MSc student @ MIPT & YSDA · Research Intern @ Yandex
 
-**Theoretical ML.** Dynamics and stability of attention, cost bounds for
-efficient attention variants, Bayesian deep learning.
+**Theoretical ML.** Cost bounds for attention sinks and efficient attention,
+dynamics and stability of Transformer blocks, Bayesian deep learning.
 
+- 📄 [Sink vs. Diagonal Attention: Sharpened Cost Bounds and Comparison Regimes](https://openreview.net/forum?id=PcyRPozsBF) — AXIOM Workshop @ NeurIPS 2026
+- 📄 The Parameter Cost of Attention Sinks: Unconditional Linear Bounds and Positional Geometry — under review at AISTATS 2027
 - 📄 [Jacobian Analysis of a Recurrent Transformer Block](https://github.com/Dimundel/Jacobian-Analysis-of-a-Recurrent-Transformer-Block) — AINL 2026
 - 📦 [Bensemble](https://github.com/intsystems/bensemble) — Bayesian deep learning library (JOSS, in review)
 
